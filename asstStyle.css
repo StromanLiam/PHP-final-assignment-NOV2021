@@ -1,0 +1,26 @@
+body, div.DataPair{
+    font-size: 1.2em;
+}
+
+table, th, td {
+    font-size: 1.2em;
+    border: 1px solid black;
+  }
+
+body, div, form{
+    font-family: "Times New Roman", Times, serif; 
+    color: #1a1a1a;
+}
+
+body {
+    background-color: #3EB595;
+}
+
+div, form {
+    background-color: #c9c9c9;
+}
+
+footer, h1{
+    background-color: #696969;
+}
+
